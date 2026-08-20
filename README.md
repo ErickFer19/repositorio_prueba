@@ -1,5 +1,5 @@
 # repositorio_prueba
 esto es un repositorio de prueba para empezar a trabajar
 
-##probando
+## probando
 Probando el readme en mi repositorio
